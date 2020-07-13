@@ -1,0 +1,2430 @@
+# depslib dependency file v1.0
+1555857539 source:/home/mer/Escritorio/FVIndividual3/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1555858127 /home/mer/Escritorio/FVIndividual3/Individual/include/Mundo.h
+	"Estado.h"
+
+1555858165 /home/mer/Escritorio/FVIndividual3/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1555930361 /home/mer/Escritorio/FVIndividual3/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	<SFML/Graphics.hpp>
+
+1555928682 /home/mer/Escritorio/FVIndividual3/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555928429 /home/mer/Escritorio/FVIndividual3/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1555931388 source:/home/mer/Escritorio/FVIndividual3/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1555931898 source:/home/mer/Escritorio/FVIndividual3/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555932528 source:/home/mer/Escritorio/FVIndividual3/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1555932490 source:/home/mer/Escritorio/FVIndividual3/Individual/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1555874779 source:/home/mer/Escritorio/FVIndividual3/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555932360 source:/home/mer/Escritorio/FVIndividual3/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555931647 /home/mer/Escritorio/FVIndividual3/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1555857539 source:/home/mer/Escritorio/balas sin ser pointers/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1555858127 /home/mer/Escritorio/balas sin ser pointers/Individual/include/Mundo.h
+	"Estado.h"
+
+1555858165 /home/mer/Escritorio/balas sin ser pointers/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1555933297 /home/mer/Escritorio/balas sin ser pointers/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	<SFML/Graphics.hpp>
+
+1555928682 /home/mer/Escritorio/balas sin ser pointers/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555933955 /home/mer/Escritorio/balas sin ser pointers/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1555935030 /home/mer/Escritorio/balas sin ser pointers/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1555934155 source:/home/mer/Escritorio/balas sin ser pointers/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555934536 source:/home/mer/Escritorio/balas sin ser pointers/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1555934606 source:/home/mer/Escritorio/balas sin ser pointers/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1555933020 source:/home/mer/Escritorio/balas sin ser pointers/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555933262 source:/home/mer/Escritorio/balas sin ser pointers/Individual/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1555935185 source:/home/mer/Escritorio/balas sin ser pointers/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/balas 2/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1555858127 /home/mer/Escritorio/balas 2/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/balas 2/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556106270 /home/mer/Escritorio/balas 2/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	<SFML/Graphics.hpp>
+
+1555952379 /home/mer/Escritorio/balas 2/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/balas 2/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1555935030 /home/mer/Escritorio/balas 2/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1555951821 source:/home/mer/Escritorio/balas 2/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556103822 source:/home/mer/Escritorio/balas 2/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1555953472 source:/home/mer/Escritorio/balas 2/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1555951678 source:/home/mer/Escritorio/balas 2/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555950502 source:/home/mer/Escritorio/balas 2/Individual/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1556106612 source:/home/mer/Escritorio/balas 2/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556102358 /home/mer/Escritorio/balas 2/Individual/include/Enemigos.h
+	<SFML/Graphics.hpp>
+
+1556102811 source:/home/mer/Escritorio/balas 2/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555857539 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1555858127 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556122306 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	<SFML/Graphics.hpp>
+
+1555952379 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556102358 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Enemigos.h
+	<SFML/Graphics.hpp>
+
+1555935030 /home/mer/Escritorio/intento hacer las balas objetos/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1555951821 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556102811 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556107971 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1555953472 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1555951678 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555950502 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1556119387 source:/home/mer/Escritorio/intento hacer las balas objetos/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556204970 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1555952379 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556102358 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Enemigos.h
+	<SFML/Graphics.hpp>
+
+1556126519 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1555951821 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556102811 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556206003 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556126587 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1555951678 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555950502 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1556206416 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556206390 /home/mer/Escritorio/los objetos manuales yo paso/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556206005 source:/home/mer/Escritorio/los objetos manuales yo paso/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+
+1555857539 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556204970 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556396909 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556102358 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Enemigos.h
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556126519 /home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1555951821 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556102811 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556126587 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1555950502 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1556368103 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556397573 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556444767 source:/home/mer/Escritorio/vamos a perfeccionar enemigos/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556474250 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556396909 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556467690 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556452787 /home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1556472417 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556468167 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556449037 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556475022 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556126587 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556444767 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556206728 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556453380 source:/home/mer/Escritorio/el choque esta un poco mal pero esta/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1555857539 source:/home/mer/Escritorio/todo a punteros/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/todo a punteros/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/todo a punteros/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556480636 /home/mer/Escritorio/todo a punteros/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556396909 /home/mer/Escritorio/todo a punteros/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/todo a punteros/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556467690 /home/mer/Escritorio/todo a punteros/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/todo a punteros/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556452787 /home/mer/Escritorio/todo a punteros/Individual/include/Ventana.h
+	"Mundo.h"
+	<SFML/Graphics.hpp>
+
+1556480963 source:/home/mer/Escritorio/todo a punteros/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556480945 source:/home/mer/Escritorio/todo a punteros/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556449037 source:/home/mer/Escritorio/todo a punteros/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556126587 source:/home/mer/Escritorio/todo a punteros/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556480970 source:/home/mer/Escritorio/todo a punteros/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556206728 source:/home/mer/Escritorio/todo a punteros/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556453380 source:/home/mer/Escritorio/todo a punteros/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556481052 source:/home/mer/Escritorio/todo a punteros/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/prueba de mapas/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/prueba de mapas/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/prueba de mapas/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556626257 /home/mer/Escritorio/prueba de mapas/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556565072 /home/mer/Escritorio/prueba de mapas/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/prueba de mapas/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556625271 /home/mer/Escritorio/prueba de mapas/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/prueba de mapas/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556561260 /home/mer/Escritorio/prueba de mapas/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556480963 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556449037 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556126587 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556564674 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556206728 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556453380 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556624934 source:/home/mer/Escritorio/prueba de mapas/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556562844 source:/home/mer/Escritorio/prueba de mapas/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556563588 /home/mer/Escritorio/prueba de mapas/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558741 source:/home/mer/Escritorio/prueba de mapas/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/prueba de mapas/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556558671 source:/home/mer/Escritorio/prueba de mapas/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556558654 /home/mer/Escritorio/prueba de mapas/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1555857539 source:/home/mer/Escritorio/perfeccionar choque/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/perfeccionar choque/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/perfeccionar choque/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556654864 /home/mer/Escritorio/perfeccionar choque/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556654757 /home/mer/Escritorio/perfeccionar choque/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/perfeccionar choque/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556705507 /home/mer/Escritorio/perfeccionar choque/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/perfeccionar choque/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556563588 /home/mer/Escritorio/perfeccionar choque/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/perfeccionar choque/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556561260 /home/mer/Escritorio/perfeccionar choque/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556480963 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556655079 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556706394 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556562844 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/perfeccionar choque/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556126587 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556706287 source:/home/mer/Escritorio/perfeccionar choque/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556712388 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556654757 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556705507 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556563588 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556561260 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556707912 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556562844 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556126587 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556707981 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556206728 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556711243 source:/home/mer/Escritorio/TODO A PUNTEROS DE VERDAD/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556713830 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556654757 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556705507 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556563588 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556561260 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556707912 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556562844 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556126587 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556707981 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556206728 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556795447 source:/home/mer/Escritorio/BALAS Y ENEMIGOS A PUNTEROSSS/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/rectangle shapes/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/rectangle shapes/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/rectangle shapes/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556886660 /home/mer/Escritorio/rectangle shapes/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/rectangle shapes/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/rectangle shapes/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556705507 /home/mer/Escritorio/rectangle shapes/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/rectangle shapes/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556563588 /home/mer/Escritorio/rectangle shapes/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/rectangle shapes/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556561260 /home/mer/Escritorio/rectangle shapes/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556884903 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556887975 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556562844 source:/home/mer/Escritorio/rectangle shapes/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/rectangle shapes/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556126587 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556887838 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556206728 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/rectangle shapes/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/rectangle shapes/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/rectangle shapes/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556886697 /home/mer/Escritorio/rectangle shapes/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556886834 source:/home/mer/Escritorio/rectangle shapes/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1555857539 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556901262 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556705507 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556563588 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556899714 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556561260 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556903202 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556909145 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556126587 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556903159 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556902261 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556909236 source:/home/mer/Escritorio/muchos rectangles al rededor de todo el mundo/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1555857539 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1556988577 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Moneda.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556984786 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556206390 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556563588 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556899714 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556561260 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556903202 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556909145 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556126587 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556903159 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556902261 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1556984926 /home/mer/Escritorio/vamos a hacer las monedas/Individual/include/Moneda.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556988740 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556987867 source:/home/mer/Escritorio/vamos a hacer las monedas/Individual/src/Moneda.cpp
+	"Moneda.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555857539 source:/home/mer/Escritorio/las puertas/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/las puertas/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/las puertas/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1557067974 /home/mer/Escritorio/las puertas/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Moneda.h"
+	"Puerta.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/las puertas/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/las puertas/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1556984786 /home/mer/Escritorio/las puertas/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556984926 /home/mer/Escritorio/las puertas/Individual/include/Moneda.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556206390 /home/mer/Escritorio/las puertas/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557057233 /home/mer/Escritorio/las puertas/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/las puertas/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556899714 /home/mer/Escritorio/las puertas/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556561260 /home/mer/Escritorio/las puertas/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/las puertas/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556625398 source:/home/mer/Escritorio/las puertas/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557057053 source:/home/mer/Escritorio/las puertas/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556909145 source:/home/mer/Escritorio/las puertas/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/las puertas/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556987867 source:/home/mer/Escritorio/las puertas/Individual/src/Moneda.cpp
+	"Moneda.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556126587 source:/home/mer/Escritorio/las puertas/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556903159 source:/home/mer/Escritorio/las puertas/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1556902261 source:/home/mer/Escritorio/las puertas/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/las puertas/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/las puertas/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/las puertas/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/las puertas/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1557069573 source:/home/mer/Escritorio/las puertas/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1557000972 /home/mer/Escritorio/las puertas/Individual/include/Puerta.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557055467 source:/home/mer/Escritorio/las puertas/Individual/src/Puerta.cpp
+	"Puerta.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555857539 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1557067974 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Moneda.h"
+	"Puerta.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1557077344 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556984926 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Moneda.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557000972 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Puerta.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556206390 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557057233 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556899714 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556561260 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557057053 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1557075045 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1556909145 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1557069627 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Moneda.cpp
+	"Moneda.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556126587 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556903159 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1557055467 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Puerta.cpp
+	"Puerta.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556902261 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1557081015 source:/home/mer/Escritorio/TODO menos movimiento enemigos y colisiones enemigos/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555857539 source:/home/mer/Escritorio/enemigos colisionan/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1556126618 /home/mer/Escritorio/enemigos colisionan/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/enemigos colisionan/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1557067974 /home/mer/Escritorio/enemigos colisionan/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Moneda.h"
+	"Puerta.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/enemigos colisionan/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1555948243 /home/mer/Escritorio/enemigos colisionan/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1557140752 /home/mer/Escritorio/enemigos colisionan/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556984926 /home/mer/Escritorio/enemigos colisionan/Individual/include/Moneda.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557000972 /home/mer/Escritorio/enemigos colisionan/Individual/include/Puerta.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556206390 /home/mer/Escritorio/enemigos colisionan/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557057233 /home/mer/Escritorio/enemigos colisionan/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/enemigos colisionan/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556899714 /home/mer/Escritorio/enemigos colisionan/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556561260 /home/mer/Escritorio/enemigos colisionan/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1556711602 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557057053 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1556909145 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/enemigos colisionan/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1557069627 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Moneda.cpp
+	"Moneda.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556126587 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1557140204 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1557055467 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Puerta.cpp
+	"Puerta.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1556902261 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1556206728 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1556453380 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1557140659 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557141055 source:/home/mer/Escritorio/enemigos colisionan/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1557162159 source:/home/mer/Escritorio/ultimos retoques/Individual/main.cpp
+	<SFML/Graphics.hpp>
+	"Mundo.h"
+	"Ventana.h"
+
+1557146088 /home/mer/Escritorio/ultimos retoques/Individual/include/Mundo.h
+	"Estado.h"
+
+1555951387 /home/mer/Escritorio/ultimos retoques/Individual/include/Estado.h
+	<SFML/Graphics.hpp>
+	"Juego.h"
+
+1557162729 /home/mer/Escritorio/ultimos retoques/Individual/include/Juego.h
+	"Personaje.h"
+	"Bala.h"
+	"Enemigos.h"
+	"Moneda.h"
+	"Puerta.h"
+	"Texto.h"
+	"LevelFactory.h"
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1556884099 /home/mer/Escritorio/ultimos retoques/Individual/include/Personaje.h
+	<SFML/Graphics.hpp>
+	"Bala.h"
+
+1557162525 /home/mer/Escritorio/ultimos retoques/Individual/include/Bala.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+
+1557140752 /home/mer/Escritorio/ultimos retoques/Individual/include/Enemigos.h
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+
+1556984926 /home/mer/Escritorio/ultimos retoques/Individual/include/Moneda.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557000972 /home/mer/Escritorio/ultimos retoques/Individual/include/Puerta.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557160800 /home/mer/Escritorio/ultimos retoques/Individual/include/Texto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557161504 /home/mer/Escritorio/ultimos retoques/Individual/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1556558686 /home/mer/Escritorio/ultimos retoques/Individual/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1556899714 /home/mer/Escritorio/ultimos retoques/Individual/include/RectangleShape.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557157716 /home/mer/Escritorio/ultimos retoques/Individual/include/Ventana.h
+	"Mundo.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1557162524 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557162729 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Enemigos.cpp
+	"Enemigos.h"
+	"Personaje.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557162729 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+	<string>
+	"Juego.h"
+
+1557162729 source:/home/mer/Escritorio/ultimos retoques/Individual/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1556558654 /home/mer/Escritorio/ultimos retoques/Individual/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1557162729 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Moneda.cpp
+	"Moneda.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557162503 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Personaje.cpp
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Bala.h"
+
+1557162729 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Puerta.cpp
+	"Puerta.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557162729 source:/home/mer/Escritorio/ultimos retoques/Individual/src/RectangleShape.cpp
+	"RectangleShape.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
+1557160795 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Texto.cpp
+	"Texto.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<string>
+
+1556558741 source:/home/mer/Escritorio/ultimos retoques/Individual/src/TileMap.cpp
+	"TileMap.h"
+
+1556558671 source:/home/mer/Escritorio/ultimos retoques/Individual/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1557162175 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Ventana.cpp
+	"Ventana.h"
+	"Juego.h"
+	<SFML/Graphics.hpp>
+
+1557162439 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Juego.cpp
+	"Juego.h"
+	"Personaje.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mundo.h"
+	"Ventana.h"
+	"Texto.h"
+	"Bala.h"
+
+1557162124 source:/home/mer/Escritorio/ultimos retoques/Individual/src/Mundo.cpp
+	"Mundo.h"
+	"Estado.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Ventana.h"
+
